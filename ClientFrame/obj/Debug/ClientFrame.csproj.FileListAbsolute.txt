@@ -1,0 +1,15 @@
+C:\Users\Barista\Desktop\ClientFrame\bin\Debug\ClientFrame.exe.config
+C:\Users\Barista\Desktop\ClientFrame\bin\Debug\ClientFrame.exe
+C:\Users\Barista\Desktop\ClientFrame\bin\Debug\ClientFrame.pdb
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.csprojAssemblyReference.cache
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.Form1.resources
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.Properties.Resources.resources
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.csproj.GenerateResource.cache
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.exe
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.pdb
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.LogForm.resources
+C:\Users\Barista\Desktop\ClientFrame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barista\Desktop\ClientFrame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.csproj.CopyComplete
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.ShowConnect.resources
+C:\Users\Barista\Desktop\ClientFrame\obj\Debug\ClientFrame.ChatForm.resources
